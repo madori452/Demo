@@ -1,0 +1,11 @@
+[{"id":54,"name":"P1 OFC","type":"固定站牌","lat":"23.118039","lon":"120.262584","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":55,"name":"P1 CUP","type":"固定站牌","lat":"23.120787","lon":"120.261449","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":56,"name":"P2 CUP","type":"固定站牌","lat":"23.119292","lon":"120.257724","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":57,"name":"P3 CUP","type":"固定站牌","lat":"23.117333","lon":"120.258708","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":58,"name":"P4 FAB","type":"固定站牌","lat":"23.116278","lon":"120.261636","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":59,"name":"P4 CUP","type":"固定站牌","lat":"23.114762","lon":"120.260002","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":60,"name":"P5 WS","type":"臨時站牌","lat":"23.111615","lon":"120.261036","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":61,"name":"P5 FAB","type":"臨時站牌","lat":"23.111710","lon":"120.261293","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":62,"name":"P5 CUP","type":"固定站牌","lat":"23.111557","lon":"120.262199","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":63,"name":"P6 CUP","type":"固定站牌","lat":"23.112301","lon":"120.263837","departDist":"150","comingSoonDist":"120","arrivalDist":"10"},
+{"id":64,"name":"P6 GB","type":"臨時站牌","lat":"23.111639","lon":"120.263936","departDist":"150","comingSoonDist":"120","arrivalDist":"10"}]
