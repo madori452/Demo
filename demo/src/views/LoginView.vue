@@ -12,7 +12,7 @@
             </div>
             <div class="mb-3 mt-2">
                 <label for="exampleInputPassword1" class="form-label">pwd</label>
-                <input type="text" v-model="user.pwd" class="form-control" id="exampleInputPassword1">
+                <input type="password" v-model="user.pwd" class="form-control" id="exampleInputPassword1">
             </div>
             <div class="mb-3">
                 <button type="submit"  class="btn btn-primary" @click="signIn">Submit</button>
